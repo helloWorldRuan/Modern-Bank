@@ -1,2 +1,2 @@
 # Modern-Bank
-First site created with React and Tailwind CSS.
+First modern site created with React and Tailwind CSS.
